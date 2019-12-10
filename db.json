@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": "123",
+      "id": 2,
       "name": "name1",
       "username": "username1",
       "email": "username1@qq.com",
@@ -13,7 +13,7 @@
       "company": {"name": "name1", "catchphrase": "catchphrase1", "bs": "bs1"}
     },
     {
-      "id": "456",
+      "id": 3,
       "name": "name1",
       "username": "username1",
       "email": "username1@qq.com",
