@@ -4,10 +4,10 @@
     "name": "name1",
     "username": "username1",
     "email": "username1@qq.com",
-    "address": {"street": "street1", "suite": "suite1", "city": "city1", "zipcode": "xakh"
+    "address": {"street": "street1", "suite": "suite1", "city": "city1", "zipcode": "xakh",
       "geo": {"lat": "lat1", "lng": "lng1"}
     },
-    "phone": "phone1"
+    "phone": "phone1",
     "website": "website1",
     "company": {"name": "name1", "catchphrase": "catchphrase1", "bs": "bs1"}
   }
